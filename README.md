@@ -1,3 +1,11 @@
+# ADD ubuntu16 docker install
+
+
+I have add ubuntu16 docker install. The docker install file is mainly cited from [varun-suresh](https://github.com/tianzhi0549/CTPN/blob/master/Dockerfile)
+
+For more info, see my [blog](http://blog.csdn.net/haluoluo211/article/details/79122286)
+
+
 # Detecting Text in Natural Image with Connectionist Text Proposal Network
 The codes are used for implementing CTPN for scene text detection, described in: 
 
